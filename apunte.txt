@@ -1,0 +1,7 @@
+modificar AndroidManifest
+ldpi 36x36
+mdpi 48x48
+hdp1 72x72
+xhdpi 96x96
+publicacion google play 512x512
+nombre: ic_launcher
